@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Fahad 👋
 
-### Full Stack Developer | Backend-Focused | Open to Diverse Tech Stacks
+### Full Stack Developer | Open to Diverse Tech Stacks
 
 I'm a **Full Stack Developer** with a strong backend focus, experienced in building practical, scalable applications using **C#, .NET, ASP.NET Core, React, TypeScript, Entity Framework Core, and SQL databases**.
 
@@ -401,14 +401,6 @@ Building systems that can continue operating locally and synchronize data reliab
 **University of the Punjab — Gujranwala, Pakistan**
 
 **2022 – 2026**
-
----
-
-# 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahad713\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad713\&layout=compact\&hide_border=true)
 
 ---
 
